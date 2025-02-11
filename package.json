@@ -1,0 +1,24 @@
+{
+  "name": "job-extension-backend",
+  "version": "1.0.0",
+  "description": "job extension service backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaeyo03/Job-Extension-Backend.git"
+  },
+  "author": "jaeyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaeyo03/Job-Extension-Backend/issues"
+  },
+  "homepage": "https://github.com/jaeyo03/Job-Extension-Backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.4"
+  }
+}
